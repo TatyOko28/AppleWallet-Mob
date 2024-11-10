@@ -1,4 +1,4 @@
-# Apple Wallet Clone with React Native 📱
+# Apple Wallet Clone with React Native  🎥
 
 **Platform**: iOS & Android (Cross-platform Mobile Application)  
 **Technologies**: React Native, React Native Reanimated, Gesture Handler
